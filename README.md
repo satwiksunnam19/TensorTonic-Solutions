@@ -36,6 +36,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Mamba 2 Gated State Scan | Apply a gated recurrent state update and read each output from the just-updated state. | https://www.tensortonic.com/problems/cs336-l04-mamba2-gated-state-scan |
 | Top-k MoE Router with Load Statistics | Route each token to its highest-scoring experts, combine selected outputs, add the shared expert, and report load statistics. | https://www.tensortonic.com/problems/cs336-l04-topk-moe-router |
 | GPU Occupancy Calculator | Calculate resident blocks, resident warps, and occupancy from one block's resource use and one SM's limits. | https://www.tensortonic.com/problems/cs336-l05-gpu-occupancy-calculator |
+| Shared-Memory Bank Conflict Analyzer | Analyze GPU shared-memory addresses by warp, reporting bank indices and the conflict degree for each access step. | https://www.tensortonic.com/problems/cs336-l05-shared-memory-bank-conflicts |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/johndoe_22)
 <!-- tensortonic:end -->
