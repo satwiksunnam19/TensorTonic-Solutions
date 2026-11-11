@@ -35,6 +35,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Parallel and Recurrent Linear Attention | Compute causal softmax-free linear attention through both a parallel formulation and a recurrent state scan. | https://www.tensortonic.com/problems/cs336-l04-linear-attention-duality |
 | Mamba 2 Gated State Scan | Apply a gated recurrent state update and read each output from the just-updated state. | https://www.tensortonic.com/problems/cs336-l04-mamba2-gated-state-scan |
 | Top-k MoE Router with Load Statistics | Route each token to its highest-scoring experts, combine selected outputs, add the shared expert, and report load statistics. | https://www.tensortonic.com/problems/cs336-l04-topk-moe-router |
+| GPU Occupancy Calculator | Calculate resident blocks, resident warps, and occupancy from one block's resource use and one SM's limits. | https://www.tensortonic.com/problems/cs336-l05-gpu-occupancy-calculator |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/johndoe_22)
 <!-- tensortonic:end -->
