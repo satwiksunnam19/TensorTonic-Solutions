@@ -37,6 +37,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Top-k MoE Router with Load Statistics | Route each token to its highest-scoring experts, combine selected outputs, add the shared expert, and report load statistics. | https://www.tensortonic.com/problems/cs336-l04-topk-moe-router |
 | GPU Occupancy Calculator | Calculate resident blocks, resident warps, and occupancy from one block's resource use and one SM's limits. | https://www.tensortonic.com/problems/cs336-l05-gpu-occupancy-calculator |
 | Shared-Memory Bank Conflict Analyzer | Analyze GPU shared-memory addresses by warp, reporting bank indices and the conflict degree for each access step. | https://www.tensortonic.com/problems/cs336-l05-shared-memory-bank-conflicts |
+| KDA Recurrence | Implement Kimi K3's KDA recurrence with gated state updates, normalized queries and keys, and ordered token readouts. | https://www.tensortonic.com/research/kimik3/k3-kda-recurrence |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/johndoe_22)
 <!-- tensortonic:end -->
